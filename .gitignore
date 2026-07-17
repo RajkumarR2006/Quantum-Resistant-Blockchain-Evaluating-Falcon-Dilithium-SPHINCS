@@ -1,0 +1,15 @@
+# Python Cache
+__pycache__/
+*/__pycache__/
+
+# Virtual Environment
+venv/
+
+# External Heavy Libraries
+liboqs/
+liboqs-python/
+
+# Generated Results (Optional: removes local generated data)
+results/
+tests/results/
+*.csv
